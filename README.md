@@ -1,11 +1,11 @@
 # Yotun-Hill ENG
 ### Short description:
-**Jotun Hill is a 2D side view game.**
-**Engine:** Unity.
-**Programming language:** C#
-**Target audience:** fans of fantasy, tabletop role-playing games and Dungeons and Dragons.
-**Distribution:** free
-**The purpose of the project:** the practice of game design
+**Jotun Hill is a 2D side view game.**\
+**Engine:** Unity.\
+**Programming language:** C#\
+**Target audience:** fans of fantasy, tabletop role-playing games and Dungeons and Dragons.\
+**Distribution:** free\
+**The purpose of the project:** the practice of game design\
 **Synopsis:** The player's character, being a novice adventurer, receives a task from the guild to arrive in the remote town of Jotun Hill in order to deal with the scourge threatening the town – the mysterious “Night Beast”.
 
 ### The purpose of the game:
@@ -24,12 +24,12 @@ P.S. This is an open-source project that serves to practice my skills in game de
 
 # Yotun-Hill RUS
 ### Краткое описание:
-**Jotun Hill - это 2D-игра с видом сбоку.**
-**Движок:** Unity.
-**Язык программирования:** C#
-**Целевая аудитория:** поклонники фэнтези, настольных ролевых игр и "Подземелий и драконов".
-**Распространение:** бесплатное
-**Цель проекта:** практика геймдизайна
+**Jotun Hill - это 2D-игра с видом сбоку.**\
+**Движок:** Unity.\
+**Язык программирования:** C#\
+**Целевая аудитория:** поклонники фэнтези, настольных ролевых игр и "Подземелий и драконов".\
+**Распространение:** бесплатное\
+**Цель проекта:** практика геймдизайна\
 **Синопсис:** Персонаж игрока, начинающий искатель приключений, получает задание от гильдии прибыть в отдаленный городок Йотун–Хилл, чтобы справиться с грозящим городу бедствием - таинственным “Ночным зверем”.
 
 ### Цель игры:
